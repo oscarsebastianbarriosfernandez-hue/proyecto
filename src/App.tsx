@@ -1,9 +1,7 @@
-import AppRoutes from "./routes/AppRoutes";
-
+import PrestamoPage from "./pages/PrestamoPage";
 
 function App() {
-  return <AppRoutes />;
+  return <PrestamoPage />;
 }
-
 
 export default App;
